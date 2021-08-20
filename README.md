@@ -1,6 +1,9 @@
 # npm-selenium
  npm install npm@latest -g
+ 
+	
 node -v
+
 npm -v
 mkdir selenium-node-automation-project
 cd selenium-node-automation-project
